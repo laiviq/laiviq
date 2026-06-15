@@ -93,4 +93,4 @@ I am currently improving my skills in:
 
 * Email: [pyshok2133@gmail.com](mailto:pyshok2133@gmail.com)
 * Telegram: @laiviq
-* LinkedIn: add your LinkedIn link here
+* LinkedIn: https://www.linkedin.com/in/timur-baikov-418781401/
