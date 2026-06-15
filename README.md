@@ -46,6 +46,8 @@ Besides my technical background, I founded and manage Lightning Records, a recor
 * Model evaluation
 * Data preprocessing
 * Basic neural networks
+* PyTorch
+* TensorFlow
 
 ### Other Skills
 
