@@ -63,7 +63,7 @@ Besides my technical background, I founded and manage Lightning Records, a recor
 Machine learning project for credit risk classification.
 The project compares Logistic Regression, CatBoost and MLP models using metrics such as ROC-AUC, Recall, Precision, F1-score and Logloss.
 
-### EGPUAccess Demo
+### EPGUAccess Demo
 
 Demo project inspired by information security tasks.
 The project focuses on analyzing user authorization events and estimating access risk based on synthetic data.
