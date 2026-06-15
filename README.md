@@ -11,7 +11,7 @@ I am especially interested in tasks where programming, data analysis and machine
 
 As part of my graduation project, I worked on a machine learning system for creditworthiness analysis. The project included data preprocessing, model training, evaluation and comparison of several approaches, including Logistic Regression, CatBoost and a Multilayer Perceptron.
 
-I also have practical experience in information security from my internship at Bashkirenergo, where I worked on the EGPUAccess project related to user authorization and access analysis.
+I also have practical experience in information security from my internship at Bashkirenergo, where I worked on the EPGUAccess project related to user authorization and access analysis.
 
 Besides my technical background, I founded and manage Lightning Records, a recording studio and music label. This experience helped me develop project management skills, understand real business processes, work with clients and build internal digital solutions for automation.
 
