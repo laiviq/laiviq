@@ -70,6 +70,7 @@ Repository: https://github.com/laiviq/credit-scoring-ml
 
 Demo project inspired by information security tasks.
 The project focuses on analyzing user authorization events and estimating access risk based on synthetic data.
+Repository: https://github.com/laiviq/egpuaccess-demo
 
 ### Lightning Records Admin
 
