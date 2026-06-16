@@ -75,6 +75,8 @@ The project focuses on analyzing user authorization events and estimating access
 
 A web-based admin panel for managing bookings, services, engineers and income in a recording studio.
 Built with HTML, CSS and JavaScript.
+Repository: https://github.com/laiviq/lightning-records-admin
+Live demo: https://laiviq.github.io/lightning-records-admin/
 
 ### RAG Document Assistant
 
