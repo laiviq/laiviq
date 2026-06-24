@@ -79,6 +79,8 @@ Built with HTML, CSS and JavaScript.
 Repository: https://github.com/laiviq/lightning-records-admin
 Live demo: https://laiviq.github.io/lightning-records-admin/
 
+### F1 Trajectory AI
+
 ### RAG Document Assistant
 
 A simple AI assistant for answering questions based on uploaded documents.
